@@ -1,4 +1,4 @@
-# Hotel Management System - Java Project
+# Hotel Management System 
 
 Welcome to the Hotel Management System, a Java-based project for managing hotel operations efficiently. This repository contains the source code and documentation for the Hotel Management System.
 
